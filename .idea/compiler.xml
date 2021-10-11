@@ -15,8 +15,11 @@
         <module name="cloud-api-commons" />
         <module name="cloud-consumerzk-order80" />
         <module name="cloud-provider-payment8004" />
+        <module name="cloudconfigclient3355" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
+        <module name="cloud-stram-rabbitmq-provider8801" />
+        <module name="cloudconfigclient3366" />
         <module name="cloud-consumer-feign-hystrix-order80" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumer-hystrix-dashboard9001" />

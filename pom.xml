@@ -24,6 +24,9 @@
       <module>cloud-consumer-hystrix-dashboard9001</module>
       <module>cloud-gateway-gateway9527</module>
       <module>cloud-config-center-3344</module>
+      <module>cloudconfigclient3355</module>
+      <module>cloudconfigclient3366</module>
+      <module>cloud-stram-rabbitmq-provider8801</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
