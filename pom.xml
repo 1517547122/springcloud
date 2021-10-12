@@ -27,6 +27,8 @@
       <module>cloudconfigclient3355</module>
       <module>cloudconfigclient3366</module>
       <module>cloud-stram-rabbitmq-provider8801</module>
+      <module>cloud-stream-rabbitmq-consumer8802</module>
+      <module>cloud-stram-rabbitmq-consumer8803</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
@@ -66,7 +68,7 @@
       <dependency>
         <groupId>com.alibaba.cloud</groupId>
         <artifactId>spring-cloud-alibaba-dependencies</artifactId>
-        <version>2.1.0.RELEASE</version>
+        <version>2.2.6.RELEASE</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
